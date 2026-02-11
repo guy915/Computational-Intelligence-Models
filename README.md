@@ -39,10 +39,6 @@ Other installation methods are also available (e.g. using pip or brew). We recom
 
 We provide the configuration files necessary to create the course environment on your machine:
 
-Page: 1
-
----
-
 - **pyproject.toml**: Defines the project metadata and lists the direct dependencies (e.g. numpy, pandas).
 - **uv.lock**: Captures the exact versions of all packages to guarantee everyone runs the same code.
 - **.python-version**: Specifies the Python version (3.12) to be used.
@@ -80,10 +76,6 @@ If you prefer running your notebooks inside VS Code you can use the UI to select
 - Click "Select Kernel" (top-right corner) -> Python Environments.
 - Select the environment labeled ci-lab-assignments (or pointing to .venv).
 
-Page: 2
-
----
-
 ## **4. Collaboration and Git**
 
 You are free to organize your team and share files in any way you prefer. However, we strongly recommend using Git for version control.
@@ -91,5 +83,3 @@ You are free to organize your team and share files in any way you prefer. Howeve
 An important observation is that, if you use Git, you must ignore the .venv folder. The .venv folder contains system-specific files. If you share it with teammates, it might break their setup.
 
 To prevent this, add the .venv folder to your .gitignore file. Your teammates should be able to recreate it on their own machines using this tutorial.
-
-Page: 3
