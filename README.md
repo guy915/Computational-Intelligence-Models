@@ -1,4 +1,4 @@
-# **Python Environment Setup Instructions - Computational Intelligence 2025/2026** dasdf
+# **Python Environment Setup Instructions - Computational Intelligence 2025/2026**
 
 To ensure your code can be run correctly for grading, you must use a dedicated environment for this course.
 
