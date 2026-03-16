@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: ci-lab-assignments
+Version: 0.1.0
+Summary: Lab assignments for the Computational Intelligence course (edition 2025/2026)
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: ipykernel>=7.2.0
+Requires-Dist: jupyter>=1.1.1
+Requires-Dist: matplotlib>=3.10.8
+Requires-Dist: numpy>=2.4.2
+Requires-Dist: openpyxl>=3.1.5
+Requires-Dist: pandas>=3.0.0
+Requires-Dist: requests>=2.32.5
+Requires-Dist: scikit-learn>=1.8.0
+Requires-Dist: seaborn>=0.13.2
+Requires-Dist: tqdm>=4.67.3
+
+# Computational Intelligence Models
+
+A collection of machine learning and computational intelligence models implemented from first principles and modern libraries.
+
+This repository explores foundational paradigms in:
+- Supervised Learning
+- Unsupervised Learning
+- Evolutionary Computation
+- Neural Networks
+- Optimization Algorithms
