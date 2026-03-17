@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+ci_lab_assignments.egg-info/PKG-INFO
+ci_lab_assignments.egg-info/SOURCES.txt
+ci_lab_assignments.egg-info/dependency_links.txt
+ci_lab_assignments.egg-info/requires.txt
+ci_lab_assignments.egg-info/top_level.txt
