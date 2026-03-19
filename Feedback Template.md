@@ -75,7 +75,7 @@
 | Reliability of plots | /6 |
 | Provenance of results | /6 |
 
-**Points 5:**
+**Points 5:** /6
 
 ---
 
